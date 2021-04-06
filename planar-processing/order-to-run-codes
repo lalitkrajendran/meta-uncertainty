@@ -1,0 +1,15 @@
+batch_prana_process_images.m: to process the images
+batch_display_vector_fields.m: to display the vectors from processing
+batch_calculate_physical_properties.m: to calculate global properties like velocity gradients for assimilating data
+batch_calculate_errors_02.m: to calculate errors
+
+
+batch_run_resampling_monte_carlo_individual_02.m: to run the resampling
+batch_calculate_weights_individual_03.m: to calculate weights
+batch_calculate_error_uncertainty_statistics_individual_02.m: to calculate the error and uncertainty statistics
+
+plot_weighting_based_on_ratio_change_04.m: plot results in assimilated form
+plot_weighting_based_on_ratio_change_panel.m: plot results in individual panel form
+plot_effect_of_resampling.m: violin plots to effect of resampling methods on uncertainty and snr
+
+
