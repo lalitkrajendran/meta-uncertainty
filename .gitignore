@@ -1,0 +1,15 @@
+#folders
+CompPD
+image-matching-code-package
+prana-uncertainty-average-dc-new-im-2-save-deform-cs
+stereo_uncertainty_codes_packaged
+discarded-codes
+histogram_distance
+
+# hidden files
+.DS_Store
+._*
+
+# images
+*.png
+
